@@ -1,0 +1,24 @@
+body {
+	background-color: rgb(245,245,245);
+}
+
+
+#left {
+	width: 180px;
+	height: 100%;
+	margin: 0 0 0 0;
+	padding: 100px 0 0 0;
+	border: 0;
+	position: fixed;
+	top: 0;
+	background: rgb(220,220,220);
+}
+
+
+#rightwrap {
+	padding: 50px 30px 0 210px;
+	background-color: rgb(245,245,245);
+}
+
+
+

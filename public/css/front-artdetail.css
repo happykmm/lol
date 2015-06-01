@@ -1,0 +1,12 @@
+.article-wrap {
+	margin: 10px auto;
+	padding: 10px 0 0 15px;
+	background-color: red;
+	width: 60%;
+	z-index: 1000;
+}
+
+.article-title {
+	font-family: "微软雅黑";
+	font-size: 26px;
+}

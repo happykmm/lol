@@ -1,0 +1,24 @@
+
+
+#edit {
+    display: block;
+}
+
+#msgwrap{
+    width: 100%;
+    height: 50px;
+	top: 0;
+	position: fixed;
+}
+
+#pubSuccess {
+	width: 500px;
+	height: 200px;
+	z-index: 2000;
+	background: red;
+	display: block;
+
+}
+
+
+
